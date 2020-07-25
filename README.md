@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ordanis</h1>
-<h3 align="center">A passionate Backend who happens to know JS</h3>
+<h3 align="center">A passionate backend developer who happens to know JS</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oldani" alt="oldani" /> </p>
 
 - 🔭 I’m currently working on [ContactSmarter](https://contactsmarter.com/)
 
-- 👯 I’m looking to collaborate on **any Python/Django project**
+- 🙌 I’m looking to collaborate on **any Python/Django project**
 
-- 💬 Ask me about **Django, Graphql, Celery, python threads and asyncio**
+- 💬 Ask me about **Django, Graphql, Celery, threads and asyncio**
 
-- 📫 Reach me out at **me@ordanisanchez.dev**
+- 📫 Reach out to me **me@ordanisanchez.dev**
 
 - ⚡ Fun fact **i'm also an Air Traffic Controller**
 
