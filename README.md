@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ordanisanchez" target="blank"><img src="https://img.shields.io/twitter/follow/ordanisanchez?logo=twitter&style=for-the-badge" alt="ordanisanchez" /></a> </p>
 
-- 🔭 I’m currently working on [FTX](https://ftx.com/)
-
 - 🌱 I’m currently learning **Rust, Solana and Crypto**
 
-- 🙌 I’m looking to collaborate on **web3 and crypto projects**
+- 🙌 I’m looking to collaborate on **finance and web3 projects**
 
 - 💬 Ask me about **Django, Graphql, Celery, threads and asyncio**
 
